@@ -225,11 +225,11 @@ Chicago-Crime-Pattern-Clustering/
 
 ---
 
-## ⚙️ Installation
+# ⚙️ Installation
 
 Clone the repository and install the required Python libraries.
 
-### Required Libraries
+## Required Libraries
 
 * pandas
 * numpy
@@ -242,7 +242,7 @@ After installing the dependencies, open the Jupyter Notebook and run the project
 
 ---
 
-## ⚠️ Limitations
+# ⚠️ Limitations
 
 * K-Means requires a predefined number of clusters.
 * Crime records without geographical coordinates cannot be used for geographical clustering.
@@ -254,7 +254,7 @@ After installing the dependencies, open the Jupyter Notebook and run the project
 
 ---
 
-## 🚀 Future Enhancements
+# 🚀 Future Enhancements
 
 The project can be further improved by:
 
@@ -271,7 +271,7 @@ The project can be further improved by:
 
 ---
 
-## 🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 
 This project provides practical experience in:
 
@@ -291,7 +291,7 @@ This project provides practical experience in:
 
 ---
 
-## ⭐ Conclusion
+# ⭐ Conclusion
 
 The **Chicago Crime Pattern Detection** project demonstrates how unsupervised machine learning can be used to discover patterns in large-scale crime data.
 
